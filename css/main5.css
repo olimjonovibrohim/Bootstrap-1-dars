@@ -1,0 +1,26 @@
+body{
+    background-color: white;
+}
+.container{
+    background-color: white;
+    margin-top: 100px;
+}
+.row{
+    margin-top: 20px;
+    background-color: cadetblue;
+}
+.imov-item{
+    color: white;
+    background-color: blue;
+    border: 5px solid white;
+    text-align: center;
+    height: 150px;
+    line-height: 130px;
+    transform: scale(0.9);
+}
+.imov-item1{
+    color: black;
+    background-color: blue;
+    border: 5px solid white;
+    text-align: center;
+}

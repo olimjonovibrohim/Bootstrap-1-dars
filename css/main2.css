@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.container{
+    background-color: black;
+    margin-top: 100px;
+}
+.row{
+    margin-top: 20px;
+}
+.imov-item{
+    color: white;
+    background-color: crimson;
+    border: 5px solid black;
+    text-align: center;
+}
